@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# CoffeTable
+CoffeTable - App with Ruby On Rails
+>>>>>>> 23bcc908035bec11b21b58008dceffa59eac2e0d
