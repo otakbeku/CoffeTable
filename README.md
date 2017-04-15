@@ -1,29 +1,26 @@
-<<<<<<< HEAD
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+* Ruby version: 2.2.6
 
-* Ruby version
+* System dependencies (Soon)
 
-* System dependencies
+* Configuration (Soon)
 
-* Configuration
+* Database creation (Soon)
 
-* Database creation
+* Database initialization (Soon)
 
-* Database initialization
+* How to run the test suite (Soon)
 
-* How to run the test suite
+* Services (job queues, cache servers, search engines, etc.) (Soon)
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Deployment instructions (Soon)
 
 * ...
 =======
+
+Masih belajar menggunakan Ruby on Rails. Masih di coba sebaik mungkin
+
 # CoffeTable
 CoffeTable - App with Ruby On Rails
->>>>>>> 23bcc908035bec11b21b58008dceffa59eac2e0d
